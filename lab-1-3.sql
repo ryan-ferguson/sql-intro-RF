@@ -2,7 +2,7 @@
 
 SELECT name, year, wins, losses FROM teams ORDER BY losses DESC;
 
-
+-- code comment
 
 -- Expected result:
 --
