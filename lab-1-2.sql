@@ -3,6 +3,9 @@
 
 -- Expected result: 2955 rows, ending with
 --
+SELECT year, wins, name, FROM teams
+ORDER BY wins;
+
 -- | 2018 | Boston Red Sox                    | 108  |
 -- | 1961 | New York Yankees                  | 109  |
 -- | 1969 | Baltimore Orioles                 | 109  |
